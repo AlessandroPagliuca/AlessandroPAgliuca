@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">&#128270; How to reach me</h2>
+<h2 align="left">&#128236; How to contact me</h2>
 
 ###
 
