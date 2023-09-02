@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Develompent Stack</h2>
+<h2 align="left">&#128230; Develompent Stack</h2>
 
 ###
 
