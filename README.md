@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">Contacts</h2>
+<h2 align="left">Contact me</h2>
 
 ###
 
