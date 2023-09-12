@@ -1,4 +1,4 @@
-<h3 align="left">Welcome to my github👋</h3>
+<h2 align="left">Welcome to my github👋</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">&#128230; Development Stack</h2>
+<h2 align="left">&#128230; Develompent Stack</h2>
 
 ###
 
@@ -36,7 +36,19 @@
 
 ###
 
-<h2 align="left">&#128236; How to contact me</h2>
+<h2 align="left">Studying new tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<h2 align="left">&#128236; How to reach me</h2>
 
 ###
 
