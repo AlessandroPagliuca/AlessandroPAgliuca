@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="left">Studying new tools</h2>
+<h2 align="left">&#128214; Studying new tools</h2>
 
 ###
 
