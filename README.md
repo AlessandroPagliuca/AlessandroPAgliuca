@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Alessandro a Jr. Full Stack Web Developer from Italy</p>
+<p align="left">I'm Alessandro a Software Developer from Italy</p>
 
 ###
 
