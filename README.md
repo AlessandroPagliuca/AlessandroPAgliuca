@@ -1,8 +1,8 @@
-<h1 align="center">Welcome to my github🌍</h1>
+<h1 align="center">Welcome to my github👋</h1>
 
 ###
 
-<h2 align="left">📦 Development Stack</h2>
+<h2 align="left">📦 Development Stack ⬇️</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">🗃 Other tools</h2>
+<h2 align="left">🗃 Other tools ⬇️</h2>
 
 ###
 
@@ -52,6 +52,16 @@
   <img src="https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=white&style=for-the-badge" height="30" alt="drupal logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
+</div>
+
+###
+
+<h2 align="left">☁️ Studying new tools ⬇️</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="40" alt="go logo"  />
 </div>
 
 ###
